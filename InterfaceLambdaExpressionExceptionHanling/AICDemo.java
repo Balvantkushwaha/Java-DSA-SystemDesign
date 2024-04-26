@@ -1,3 +1,5 @@
+package PwskillJava.InterfaceLambdaExpressionExceptionHanling;
+
 @FunctionalInterface
 interface car {
     void drive(int avg, int st);

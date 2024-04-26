@@ -1,3 +1,5 @@
+package PwskillJava.InterfaceLambdaExpressionExceptionHanling.InterfaceClass;
+
 interface A {
     void show();
 

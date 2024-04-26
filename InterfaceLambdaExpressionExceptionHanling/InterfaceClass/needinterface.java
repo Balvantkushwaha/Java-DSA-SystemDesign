@@ -1,3 +1,5 @@
+package PwskillJava.InterfaceLambdaExpressionExceptionHanling.InterfaceClass;
+
 interface Computer {
     void compilerCode();
 }

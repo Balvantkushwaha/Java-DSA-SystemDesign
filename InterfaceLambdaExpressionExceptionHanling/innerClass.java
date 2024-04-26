@@ -1,3 +1,5 @@
+package PwskillJava.InterfaceLambdaExpressionExceptionHanling;
+
 class A {
     void show() {
         System.out.println("in show");

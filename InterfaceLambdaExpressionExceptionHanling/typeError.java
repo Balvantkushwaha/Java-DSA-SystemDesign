@@ -1,3 +1,4 @@
+package PwskillJava.InterfaceLambdaExpressionExceptionHanling;
 
 public class typeError {
     public static void main(String[] args) {
