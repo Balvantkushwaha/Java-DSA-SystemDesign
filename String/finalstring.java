@@ -10,7 +10,7 @@ public class finalstring {
         final StringBuffer sb = new StringBuffer("virat");
         sb.append(" kohli");
         System.out.println(sb);
-        // sb=new StringBuffer("sachin");
+        //sb=new StringBuffer("sachin");
 
     }
 }
