@@ -1,5 +1,8 @@
 package Generics;
 
+import java.util.ArrayList;
+import java.util.List;
+
 class Student {
     int marks;
     int age;
@@ -25,9 +28,9 @@ class Student {
     // return name;
     // }
 
-    // public String toString() {
-    // return "" + marks + "-" + age + "-" + name;
-    // }
+    public String toString() {
+        return "" + marks + "-" + age + "-" + name;
+    }
 
 }
 
@@ -36,6 +39,10 @@ public class gen5 {
         Student st1 = new Student(99, 18, "Hariom");
         Student st2 = new Student(90, 19, "balvant");
         Student st3 = new Student(70, 16, "Raju");
+        List<Student> list = new ArrayList<Student>();
+        list.add(st1);
+        list.add(st2);
+        list.add(st3);
         System.out.println(st1);
 
     }

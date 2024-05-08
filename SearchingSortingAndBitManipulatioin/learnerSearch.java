@@ -1,4 +1,4 @@
-package PwskillJava.SearchingSortingAndBitManipulatioin;
+package SearchingSortingAndBitManipulatioin;
 
 import java.util.Scanner;
 
