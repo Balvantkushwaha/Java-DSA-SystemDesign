@@ -1,4 +1,4 @@
-package EncapsulationConstructorAndStaticKeyword.constructor;
+package constructor;
 
 class student {
    private String name;
