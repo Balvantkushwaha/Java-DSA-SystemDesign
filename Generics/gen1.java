@@ -15,7 +15,7 @@ public class gen1{
          ArrayList<String> al = new ArrayList<String>(10);
             al.add("Balvant");
             al.add("pw");
-            ///al.add(10);
+            //al.add(10);
           String n1= (String)al.get(0);
           String n2 = (String)al.get(1);
           String n3= (String)al.get(2);

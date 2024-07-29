@@ -16,17 +16,17 @@ class Student {
     }
 
     // value passing getter & setter
-    // public int getMarks() {
-    // return marks;
-    // }
+     public int getMarks() {
+       return marks;
+     }
 
-    // public int getAge() {
-    // return age;
-    // }
+    public int getAge() {
+        return age;
+     }
 
-    // public String getName() {
-    // return name;
-    // }
+    public String getName() {
+        return name;
+    }
 
     public String toString() {
         return "" + marks + "-" + age + "-" + name;

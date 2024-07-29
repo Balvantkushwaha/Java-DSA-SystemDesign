@@ -7,7 +7,7 @@ class student{
 
 }
 class Employ{
-       private String name;
+        private String name;
         private int id;
 
 
@@ -24,7 +24,7 @@ public class gen2 {
       ArrayList<student> al   =new ArrayList<student>();
       al.add(st1);
       al.add(st2);
-    ///  al.add(e);
+     // al.add(e);
 
     }
 }
