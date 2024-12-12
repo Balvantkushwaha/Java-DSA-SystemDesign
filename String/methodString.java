@@ -1,3 +1,5 @@
+package PwskillJava.String;
+
 public class methodString {
     public static void main(String[] args) {
         // 1. public int charAt( int index)
