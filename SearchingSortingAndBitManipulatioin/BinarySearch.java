@@ -1,8 +1,5 @@
 package SearchingSortingAndBitManipulatioin;
-
 import java.util.Scanner;
-import java.util.*;
-
 public class BinarySearch {
     public static int binarySearchNo(int array[], int target) {
         int low = 0, high = array.length - 1;

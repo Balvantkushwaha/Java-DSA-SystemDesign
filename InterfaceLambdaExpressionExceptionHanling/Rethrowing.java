@@ -1,6 +1,4 @@
-package PwskillJava.InterfaceLambdaExpressionExceptionHanling;
-
-import java.io.IOException;
+package InterfaceLambdaExpressionExceptionHanling;
 
 class MyException extends Exception {
     MyException() {

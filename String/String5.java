@@ -1,4 +1,4 @@
-package PwskillJava.String;
+package String;
 
 public class String5  {
       public  static void main(String[] args)

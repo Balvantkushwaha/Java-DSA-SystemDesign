@@ -1,4 +1,4 @@
-package PwskillJava.InterfaceLambdaExpressionExceptionHanling;
+package InterfaceLambdaExpressionExceptionHanling;
 
 // checked excpetion and unchecked excpetion. 
 import java.io.BufferedReader;

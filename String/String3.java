@@ -1,4 +1,4 @@
-package PwskillJava.String;
+package String;
 public class String3 {
   public static void main(String[] args) {
     String s1 = "pw java";

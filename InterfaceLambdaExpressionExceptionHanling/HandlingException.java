@@ -1,4 +1,4 @@
-package PwskillJava.InterfaceLambdaExpressionExceptionHanling;
+package InterfaceLambdaExpressionExceptionHanling;
 
 class demo {
     public void a() throws Exception {

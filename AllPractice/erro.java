@@ -1,4 +1,4 @@
-package RecordingClass;
+package AllPractice;
 
 public class erro {
     public static void main(String[] args) {

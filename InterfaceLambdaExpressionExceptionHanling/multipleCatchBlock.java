@@ -1,4 +1,4 @@
-package PwskillJava.InterfaceLambdaExpressionExceptionHanling;
+package InterfaceLambdaExpressionExceptionHanling;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

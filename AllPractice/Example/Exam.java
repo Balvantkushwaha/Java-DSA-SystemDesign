@@ -1,4 +1,4 @@
-package RecordingClass.Example;
+package Example;
 
 /**
  * Exam
