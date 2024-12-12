@@ -5,7 +5,7 @@ public class saticblock {
 
     static {
         System.out.println("static block");
-        age 
+    
     }
     public static void main(String[] args) {
         

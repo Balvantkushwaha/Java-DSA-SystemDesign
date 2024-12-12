@@ -1,4 +1,4 @@
-package PwskillJava.String;
+package String;
 public class finalstring {
     public static void main(String[] args) {
         // final int a=10;
