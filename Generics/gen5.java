@@ -1,9 +1,11 @@
 package Generics;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
+//import javax.swing.event.SwingPropertyChangeSupport;
 
-class Student {
+
+
+class Student implements Comparable<Student> {
     int marks;
     int age;
     String name;
@@ -15,7 +17,7 @@ class Student {
         this.name = name;
     }
 
-    // value passing getter & setter
+    //value passing getter & setter
      public int getMarks() {
        return marks;
      }
@@ -31,8 +33,27 @@ class Student {
     public String toString() {
         return "" + marks + "-" + age + "-" + name;
     }
-
+    public int compareTo(Student a)
+    {
+        if(this.marks>a.marks)
+            return 1;
+            else
+            return -1;
+        
+    }
+    
 }
+// class Alpha implements Comparator<Student>
+// {
+//     public int compare(Student a, Student b)
+//     {
+//         if (a.age>b.age)
+//             return 1 ;
+//             else
+//             return -1;
+        
+//     }
+// }
 
 public class gen5 {
     public static void main(String[] args) {
@@ -43,7 +64,13 @@ public class gen5 {
         list.add(st1);
         list.add(st2);
         list.add(st3);
-        System.out.println(st1);
+        System.out.println(list);
 
+        //Alpha a = new Alpha();
+        
+        Collections.sort(list);
+        System.out.println(list);
+        //  System.out.println("hello world");
+       
     }
 }

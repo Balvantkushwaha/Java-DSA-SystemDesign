@@ -1,4 +1,4 @@
-package PwskillJava.CollectionAndMapAPI;
+package CollectionAndMapAPI;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

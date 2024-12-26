@@ -2,7 +2,7 @@ package Generics;
 
 import java.util.*;
 import java.util.ArrayList;
-import java.util.Collection;
+
 
 public class gen4Collection {
     public static void main(String[] args) {
@@ -25,6 +25,7 @@ public class gen4Collection {
         al2.add("Pw");
         al2.add("java");
         System.out.println(al2);
+        // COLLECTION  sort 
         Collections.sort(al2);
         System.out.println(al2);
 
@@ -36,12 +37,14 @@ public class gen4Collection {
         al3.add(70);
         al3.add(80);
         System.out.println(al3);
-        int index = Collections.binarySearch(al3, 600);
+        int index = Collections.binarySearch(al3, 60);
         System.out.println(index);
         Collections.rotate(al3, 3);
         System.out.println(al3);
         int index1 = Collections.frequency(al3, 30);
         System.out.println(index1);
+        Collections.shuffle(al3);
+        System.out.println(al3);
 
     }
 }
