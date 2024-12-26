@@ -1,9 +1,11 @@
 # Pw skill course java
- <h1><b>y name is Balvant kushwaha</b> </h1><br>
-Practice full pw skill course ki coding .<br>
-Module and name prejentration .
-Hii this is repo complete Computer Coouse Practice programming .
-and recoding class pratice 
+<h1><b> My name is Balvant kushwaha</b> </h1><br>
+Practice full 
+PW Skill Course of Coding.<br>
+Module and name Pregentration .
+Hii this is repo complete Java Coouse Practice programming .
+and Recoding class pratice .
+
 
 
 
