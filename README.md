@@ -3,7 +3,7 @@
 Practice full 
 PW Skill Course of Coding.<br>
 Module and name Pregentration .
-Hii this is repo complete Java Coouse Practice programming .
+Hii this is repo complete Java Course Practice programming .
 and Recoding class pratice .
 
 
