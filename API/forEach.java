@@ -16,6 +16,9 @@ public class forEach {
          for(Integer i:list2){
             System.out.println(i);
          }
+         
+        list2.forEach(i->System.out.println(i));
+         
 
 
     }
