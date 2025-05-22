@@ -55,7 +55,7 @@ Java-DSA-System-Design/
 ## How to Run the Code
 
 1. Clone the repository:
-git clone https://github.com/balvantkushwaha/java-dsa-systemdesign.git
+git clone https://github.com/Balvantkushwaha/Java-DSA-SystemDesign.git
 
 2. Open any `.java` file in an IDE like IntelliJ, VS Code, or Eclipse.
 
