@@ -12,7 +12,8 @@ public class LinkedList{
     public void insertAtEnd(int newData){
         // intialize the newNode with the newData entered the user
         Node newNode = new Node(newData);
-         // linked list is empty            
+         // linked list is empty       
+         System.out.println(newNode);     
 
           if(head == null){
             head = new Node(newData);
@@ -21,7 +22,7 @@ public class LinkedList{
           // Linked list is not empty 
           newNode.next = null;
           // traversing the linkedlist at the end of the node 
-         // System.out.println(head+" is a new data");
+          System.out.println(head+" is a new data");
           Node temp = head;
           while (temp.next!=null) {
              temp = temp.next;
@@ -147,7 +148,7 @@ public class LinkedList{
             llist.insertAtEnd(6);
             llist.insertAtEnd(10);
             llist.insertAtEnd(12);
-            llist.insertAtBeginning(2);
+           // llist.insertAtBeginning(2);
            // llist.insertAnyNode(llist.head.next.next, 8);
            // llist.deleteNode(4);
             // llist.printNodes();
@@ -165,12 +166,13 @@ public class LinkedList{
             // llist.middleNode();
             // System.out.println();
             // circular linkde list 
-            Node temp = llist.head;
-            while (temp.next!=null) {
-                temp = temp.next; 
-            }
-            temp.next = llist.head;
-            llist.detectLoop();
-            System.out.println();
+
+            // Node temp = llist.head;
+            // while (temp.next!=null) {
+            //     temp = temp.next; 
+            // }
+            // temp.next = llist.head;
+            // llist.detectLoop();
+            // System.out.println();
     }
 }
