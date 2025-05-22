@@ -68,6 +68,9 @@ git clone https://github.com/Balvantkushwaha/Java-DSA-SystemDesign.git
 3. Compile and run the file using the terminal or the IDE.
 
 
+## How to Aceess notes
+1. Access Notes  : [Click Here](https://drive.google.com/drive/folders/1GbZoeUhVYsBl4jtC2b5a4pJQACtn--XZ?usp=sharing)
+
 ## 👨‍💻 Author
 
 - **Balvant Kushwaha**
