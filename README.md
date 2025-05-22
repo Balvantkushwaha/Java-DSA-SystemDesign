@@ -66,6 +66,7 @@ git clone https://github.com/Balvantkushwaha/Java-DSA-SystemDesign.git
 2. Open any `.java` file in an IDE like IntelliJ, VS Code, or Eclipse.
 
 3. Compile and run the file using the terminal or the IDE.
+4. Access notes follow link : [Notes](https://drive.google.com/drive/folders/1GbZoeUhVYsBl4jtC2b5a4pJQACtn--XZ?usp=sharing)
 
 
 ## 👨‍💻 Author
