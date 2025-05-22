@@ -16,14 +16,19 @@
   ## ✅ Topics Covered
 
 ### Core Java:
-- Variables, Data Types, Operators
+- Variables, Data Types, Operators, String
 - Control Flow (if-else, switch, loops)
 - Functions & Recursion
-- OOPs Concepts (Class, Object, Inheritance, etc.)
-- Exception & File Handling
+- OOPs Concepts (Class, Object, Inheritance,Polymorphism,Abstraction,Encapsulation ,constructor, and Static keyword  etc.)
+- Interface ,Lambda Expression and Exception Handling
+- Collection and Map API 
+- Generics
+- File Handling
+- API
+- Multi Threading
 
 ### DSA:
-- Arrays, Strings, 2D Arrays
+- Arrays, 2D Arrays
 - Sorting & Searching Algorithms
 - Linked Lists, Stack, Queue
 - Trees & Graphs
@@ -42,9 +47,10 @@ Java-DSA-System-Design/
 │
 ├── Core-Java/
 ├── DSA/
-│ ├── Arrays/
-│ ├── Strings/
-│ ├── LinkedList/
+│ ├── ComplexityAnalysisAndArray/
+│ ├── Linked List/
+| |── Hash Stack and Queue/
+| |── SearchingSortingAndBitManipulatioin/
 │ ├── Trees/
 │ └── Graphs/
 ├── System-Design/
